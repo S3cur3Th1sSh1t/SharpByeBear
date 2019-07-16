@@ -1,6 +1,6 @@
 # SharpByeBear
 
-This is a weaponized version for the last Exploit published by SandboxEscaper. 
+This is a weaponized version for the last Exploit published by SandboxEscaper. The vulnerability was fixed with the Windows July 2019 Patches, there are 2 CVEs, i dont know why or which one is correct: CVE-2019-1129, CVE-2019-1130.
 
 Most of the code comes from rasta-mouse CollectorService repository (https://github.com/rasta-mouse/CollectorService). I just changed the CVE-2019-0841-Code from the original SandboxEscaper C++ Code to C# and added some checks.
 
